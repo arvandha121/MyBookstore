@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Bookstore</string>
+    <string name="search">Cari Buku....</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="price">Price</string>
+    <string name="name">Arief Nauvan Ramadha</string>
+    <string name="email">nauvan121@gmail.com</string>
+    <string name="scrollbutton">Scroll Button</string>
+</resources>
